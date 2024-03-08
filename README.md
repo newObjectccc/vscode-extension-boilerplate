@@ -26,4 +26,8 @@ I recommend setup your development environment to this below:
 2. `pnpm install`
 3. `pnpm watch`
 
+## Notifinition
+
+You must install your dependencies through "yarn" or "npm" before you package your vsc extension.
+
 happy hacking.
